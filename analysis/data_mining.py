@@ -2,8 +2,10 @@ import pandas as pd
 import numpy as np
 import os
 
-DATA_PATH = "../data/cleaned_crop_prices.csv"
-RESULT_PATH = "../results/data_mining"
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned_crop_prices.csv")
+RESULT_PATH = os.path.join(BASE_DIR, "results", "data_mining")
 
 def calculate_risk_index(df):
     """Calculate Risk Index = Volatility / Modal_Price"""

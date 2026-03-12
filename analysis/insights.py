@@ -1,8 +1,10 @@
 import pandas as pd
 import os
 
-DATA_PATH = "../data/cleaned_crop_prices.csv"
-RESULT_PATH = "../results"
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned_crop_prices.csv")
+RESULT_PATH = os.path.join(BASE_DIR, "results")
 
 def generate_insights():
     """Generate key insights from data mining analysis"""

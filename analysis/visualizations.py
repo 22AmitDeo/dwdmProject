@@ -3,8 +3,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-DATA_PATH = "../data/cleaned_crop_prices.csv"
-RESULT_PATH = "../results/visualizations"
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned_crop_prices.csv")
+RESULT_PATH = os.path.join(BASE_DIR, "results", "visualizations")
 
 def setup_style():
     """Configure visualization style"""

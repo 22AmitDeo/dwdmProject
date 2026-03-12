@@ -1,0 +1,55 @@
+State,District,Market,Modal_Price,Volatility
+Bihar,Rohtas,Natwar APMC,1100.0,200.0
+Himachal Pradesh,Kangra,SMY Palampur,6302.5,430.0
+Kerala,Ernakulam,Kadungallur  VFPCK APMC,4100.0,150.0
+Kerala,Kottayam,Athirampuzha APMC,4119.23,230.77
+Kerala,Pathanamthitta,Ezhamkulam APMC,2800.0,300.0
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,2300.0,0.0
+Madhya Pradesh,Dhar,Kukshi APMC,2200.0,50.0
+Madhya Pradesh,Mandla,Mandla APMC,2005.0,5.0
+Odisha,Bargarh,Attabira APMC,1560.0,400.0
+Punjab,Amritsar,Rayya APMC,1000.5,0.0
+Punjab,Tarntaran,Patti APMC,2620.0,0.0
+Rajasthan,Jalore,Jalore APMC,2530.77,423.08
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,5218.75,937.5
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,4062.5,232.14
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,3000.0,666.67
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,4172.41,758.62
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,4272.73,909.09
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,3882.43,543.24
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,6040.82,0.0
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,4307.69,76.92
+Tamil Nadu,Kancheepuram,Tiruttani APMC,1900.0,200.0
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,5460.29,550.0
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,6840.91,663.64
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,4097.87,127.66
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,3526.79,375.0
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,5381.36,606.78
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,4647.62,571.43
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,4401.35,516.22
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,4407.32,473.17
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,3058.11,370.27
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,4220.0,97.78
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,4002.86,0.0
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,4447.5,0.0
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,4367.71,631.25
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,4482.14,192.86
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,3603.12,793.75
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,4043.48,0.0
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,4102.63,605.26
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,4035.71,435.71
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ) APMC,3573.53,635.29
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,4352.27,522.73
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,3948.72,856.41
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,4135.42,116.67
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,3679.41,92.16
+Tamil Nadu,Vellore,Thirupathur APMC,4236.0,0.0
+Tamil Nadu,Vellore,Vellore APMC,1800.0,0.0
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,4569.74,518.42
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,4535.0,650.0
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,4000.0,514.29
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,3150.0,600.0
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,4353.95,902.63
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj APMC,3000.0,0.0
+Uttarakhand,Dehradoon,Vikasnagar APMC,2306.67,580.0
+West Bengal,Paschim Bardhaman,Asansol APMC,5365.38,233.08

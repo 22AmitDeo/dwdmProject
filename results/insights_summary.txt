@@ -1,0 +1,23 @@
+======================================================================
+FARMER INCOME RISK ANALYSIS - KEY INSIGHTS
+======================================================================
+
+1. Crop 'Kakada' shows highest volatility (5000.00), indicating high income risk for farmers.
+2. Crop 'Jasmine' shows highest volatility (5000.00), indicating high income risk for farmers.
+3. Crop 'Grapes' shows highest volatility (1200.00), indicating high income risk for farmers.
+4. Crop 'Pomegranate' shows highest volatility (1166.67), indicating high income risk for farmers.
+5. Crop 'Apple' shows highest volatility (1083.33), indicating high income risk for farmers.
+6. State 'Uttarakhand' exhibits high price volatility (580.00), affecting farmer income stability.
+7. State 'Himachal Pradesh' exhibits high price volatility (430.00), affecting farmer income stability.
+8. State 'Rajasthan' exhibits high price volatility (423.08), affecting farmer income stability.
+9. State 'Tamil Nadu' exhibits high price volatility (410.99), affecting farmer income stability.
+10. State 'Odisha' exhibits high price volatility (400.00), affecting farmer income stability.
+11. Seasonal patterns show 0.0% price variation between peak and low months.
+12. Risk analysis shows 120 high-risk transactions affecting farmer income.
+13. State 'Odisha' has elevated risk index (0.262), requiring policy intervention.
+14. State 'Uttarakhand' has elevated risk index (0.236), requiring policy intervention.
+15. State 'Rajasthan' has elevated risk index (0.217), requiring policy intervention.
+16. State 'Bihar' has elevated risk index (0.182), requiring policy intervention.
+17. State 'Tamil Nadu' has elevated risk index (0.107), requiring policy intervention.
+18. Supply-price relationship shows inverse correlation for most commodities.
+19. Wide price ranges indicate market inefficiency and farmer vulnerability.

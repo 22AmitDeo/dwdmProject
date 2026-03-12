@@ -1,0 +1,16 @@
+,,Modal_Price,Modal_Price,Modal_Price,Volatility
+,,mean,min,max,mean
+Month,District,,,,
+12,Chengalpattu,4000.0,3500,5000,500.0
+12,Dharmapuri,1750.0,1750,1750,500.0
+12,Kallakuruchi,3250.0,3000,3500,500.0
+12,Nagercoil (Kannyiakumari),5250.0,4750,5750,500.0
+12,Ranipet,1750.0,1500,2000,0.0
+12,Salem,2500.0,2500,2500,200.0
+12,The Nilgiris,1900.0,1900,1900,200.0
+12,Theni,1900.0,1900,1900,200.0
+12,Thiruchirappalli,3270.0,2300,4600,220.0
+12,Thirupathur,2750.0,2500,3000,500.0
+12,Thirupur,3530.0,2250,4650,660.0
+12,Vellore,1716.67,1350,2000,100.0
+12,Virudhunagar,3020.0,2750,3600,560.0

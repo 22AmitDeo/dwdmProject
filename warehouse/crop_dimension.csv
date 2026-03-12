@@ -1,0 +1,178 @@
+Commodity,Variety,Grade,Crop_ID
+Grapes,Annabesahai,Local,1
+Potato,Other,Local,2
+Papaya,Papaya,Local,3
+Cabbage,Cabbage,Local,4
+Ridgeguard(Tori),Ridgeguard(Tori),Local,5
+Raddish,Raddish,Local,6
+Mango(Raw-Ripe),Mango - Raw-Ripe,Local,7
+Knool Khol,Knool Khol,Local,8
+Onion Green,Onion Green,Local,9
+Banana - Green,Banana - Green,Local,10
+Brinjal,Round,Local,11
+Pumpkin,Pumpkin,Local,12
+Coconut,Coconut,Local,13
+Thondekai,Thondekai,Local,14
+Capsicum,Capsicum,Local,15
+Tender Coconut,Tender Coconut,Local,16
+Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Local,17
+Yam(Ratalu),Yam (Ratalu),Local,18
+Cowpea(Veg),Cowpea (Veg),Local,19
+Garlic,Garlic,Local,20
+Bitter gourd,Other,Local,21
+Cluster beans,Cluster Beans,Local,22
+Green Avare(W),Green Avare (W),Local,23
+Amla(Nelli Kai),Amla,Local,24
+Green Chilli,Green Chilly,Local,25
+Banana,Poovan,Local,26
+Bhindi(Ladies Finger),Bhindi,Local,27
+Banana,Karpura,Local,28
+Coriander(Leaves),I Sort,Local,29
+Tomato,Deshi,Local,30
+Bottle gourd,Bottle Gourd,Local,31
+Ginger(Green),Green Ginger,Local,32
+Karbuja(Musk Melon),Karbhuja,Local,33
+Lemon,Lemon,Local,34
+Mint(Pudina),Mint(Pudina),Local,35
+Onion,Bellary,Local,36
+Ashgourd,Gouard,Local,37
+Beetroot,Beetroot,Local,38
+Chow Chow,Chow Chow,Local,39
+Lime,Lime,Local,40
+Colacasia,Colacasia,Local,41
+Cauliflower,Ranchi,Local,42
+Potato,Red Nanital,Local,43
+Beans,Beans (Whole),Local,44
+Chikoos(Sapota),Sapota,Local,45
+Carrot,Pusakesar,Local,46
+Guava,Guava Allahabad,Local,47
+Water Melon,Water Melon,Local,48
+Tomato,Other,Local,49
+Drumstick,Drumstick,Local,50
+Indian Beans(Seam),Indian Beans (Seam),Local,51
+Cucumbar(Kheera),Cucumbar,Local,52
+Green Avare(W),Other,Local,53
+Banana,Besrai,Local,54
+Bitter gourd,Bitter Gourd,Local,55
+Amaranthus,Amaranthus,Local,56
+Snakeguard,Snakeguard,Local,57
+Tamarind Fruit,Tamarind Fruit,Local,58
+Mango,Safeda,Local,59
+Groundnut,Big (With Shell),Local,60
+Mashrooms,Mashrooms,Local,61
+Wheat,Mill Quality,Non-FAQ,62
+Mousambi(Sweet Lime),Mousambi,Local,63
+Sweet Potato,Hosur Red,Local,64
+Green Peas,Green Peas,Local,65
+Peas(Dry),Other,FAQ,66
+Green Gram Dal(Moong Dal),Green Gram Dal,FAQ,67
+Masur Dal,Masur Dal,FAQ,68
+Ginger(Green),Other,FAQ,69
+Pineapple,Pine Apple,Medium,70
+Capsicum,Capsicum,FAQ,71
+Brinjal,Brinjal,Local,72
+Beetroot,Other,Local,73
+Green Chilli,Other,Local,74
+Pumpkin,Other,Local,75
+Papaya,Papaya,Medium,76
+Tomato,Other,Medium,77
+Carrot,Carrot,Medium,78
+Bhindi(Ladies Finger),Bhindi,FAQ,79
+Banana - Green,Banana - Green,FAQ,80
+Bitter gourd,Bitter Gourd,FAQ,81
+Beetroot,Beetroot,FAQ,82
+Potato,Potato,FAQ,83
+Onion,Small,FAQ,84
+Brinjal,Other,Local,85
+Pineapple,Pine Apple,Local,86
+Banana,Red Banana,Local,87
+Tapioca,Tapioca,Local,88
+Pomegranate,Pomogranate,Local,89
+Arhar(Tur/Red Gram)(Whole),Arhar (Whole),Local,90
+Tomato,Local,Local,91
+Rice,Fine,FAQ,92
+Brinjal,Other,FAQ,93
+Banana,Banana - Ripe,Medium,94
+Apple,Apple,Medium,95
+Mousambi(Sweet Lime),Mousambi,Medium,96
+Grapes,Other,Medium,97
+Tomato,Tomato,FAQ,98
+Ridgeguard(Tori),Other,Local,99
+Guava,Other,Medium,100
+Pomegranate,Other,Medium,101
+Ginger(Green),Green Ginger,Medium,102
+Cauliflower,Other,Medium,103
+Apple,Apple,Grade B,104
+Cucumbar(Kheera),Cucumbar,FAQ,105
+Brinjal,Brinjal,FAQ,106
+Colacasia,Other,FAQ,107
+Soyabean,Local,Local,108
+Marigold(Calcutta),Marigold(Calcutta),Local,109
+Potato,Jyoti,FAQ,110
+Apple,American,Local,111
+Orange,Darjeeling,Local,112
+Rose(Local),Rose (Local),Local,113
+Sweet Pumpkin,Other,FAQ,114
+Tinda,Tinda,Local,115
+Ginger(Green),Other,Local,116
+Tomato,Tomato,Local,117
+Onion,Other,Medium,118
+Colacasia,Other,Medium,119
+Banana,Other,Medium,120
+Carrot,Carrot,FAQ,121
+Green Chilli,Green Chilly,FAQ,122
+Peas Wet,Other,FAQ,123
+Cauliflower,Cauliflower,FAQ,124
+Pea Pod/Pea Cod/हरी मटर,Peas cod,FAQ,125
+Garlic,Garlic,FAQ,126
+Pumpkin,Pumpkin,FAQ,127
+Snakeguard,Snakeguard,FAQ,128
+Betal Leaves,Mysore,Local,129
+Jasmine,Jasmine,Local,130
+Turnip,Turnip,Local,131
+Cauliflower,Other,Local,132
+Wheat,Kalyan,FAQ,133
+Onion,Nasik,FAQ,134
+Pomegranate,Pomogranate,Medium,135
+Water Melon,Water Melon,Medium,136
+Guava,Guava,Medium,137
+Ginger(Green),Green Ginger,FAQ,138
+Chikoos(Sapota),Sapota,Medium,139
+Onion,Onion,FAQ,140
+Peas Wet,Peas Wet,FAQ,141
+Cabbage,Other,Local,142
+Bottle gourd,Other,Medium,143
+Apple,Other,Medium,144
+Cauliflower,Local,FAQ,145
+Bottle gourd,Bottle Gourd,FAQ,146
+Banana,Medium,Grade B,147
+Amaranthus,Other,FAQ,148
+French Beans(Frasbean),French Beans (Frasbean),FAQ,149
+Galgal(Lemon),Galgal(Lemon),FAQ,150
+Onion,Big,FAQ,151
+Cabbage,Cabbage,FAQ,152
+Banana,Elakki Bale,Local,153
+Banana,Bhushavali(Pacha),Local,154
+Mango,Other,Local,155
+Kakada,Kakada,Local,156
+Wheat,Wheat,FAQ,157
+Paddy(Common),Other,Local,158
+Banana,Nendra Bale,Grade A,159
+Mustard,Other,FAQ,160
+Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,161
+Tomato,Hybrid,FAQ,162
+Orange,Orange,Medium,163
+Lemon,Other,FAQ,164
+Capsicum,Other,Local,165
+Lemon,Other,Local,166
+Field Pea,Field Pea,Medium,167
+Green Chilli,Green Chilly,Medium,168
+Kinnow,Other,Medium,169
+Onion,Other,FAQ,170
+Raddish,Other,FAQ,171
+Tomato,Other,FAQ,172
+Grapes,Green,Grade B,173
+Cowpea(Veg),Cowpea (Veg),FAQ,174
+Coconut,Other,FAQ,175
+Ashgourd,Ashgourd,FAQ,176
+Drumstick,Drumstick,FAQ,177

@@ -1,0 +1,115 @@
+================================================================================
+GEOGRAPHICAL PRICE VARIATION ANALYSIS - SUMMARY
+================================================================================
+
+1. STATE-LEVEL ANALYSIS
+--------------------------------------------------------------------------------
+
+Top 10 States by Average Price:
+                         mean          std   min    max  count
+State                                                         
+Himachal Pradesh  6302.500000  4103.800389   850  14200     20
+West Bengal       5365.384615  3989.349081   860  12150     13
+Tamil Nadu        4377.946493  3417.610747   900  52500   1383
+Kerala            4071.428571  2467.395860  1700  11500     28
+Uttar Pradesh     3000.000000  2519.126833  1300   8700     11
+Rajasthan         2530.769231  1642.348225   600   6300     13
+Uttarakhand       2306.666667  1682.458519   500   6000     15
+Madhya Pradesh    2168.333333   150.027775  2005   2300      3
+Odisha            1560.000000   250.998008  1200   1800      5
+Punjab            1540.333333  1319.468869   400   4500     15
+
+
+2. DISTRICT-LEVEL ANALYSIS
+--------------------------------------------------------------------------------
+
+Top 10 Districts by Average Price:
+                                  mean          std   min    max  count
+District                                                               
+Kangra                     6302.500000  4103.800389   850  14200     20
+Nagercoil (Kannyiakumari)  6239.102564  7380.479023   900  52500     78
+Salem                      5381.355932  4426.233496  1250  21500     59
+Paschim Bardhaman          5365.384615  3989.349081   860  12150     13
+Kallakuruchi               5272.727273  4639.076337  1500  30000     88
+The Nilgiris               4532.278481  3106.228627  1650  17000     79
+Chengalpattu               4367.924528  2473.239525  1250  17000    106
+Thiruchirappalli           4313.333333  2822.146411  1000  19500    210
+Virudhunagar               4298.136646  2609.321561  1250  18000    161
+Kottayam                   4119.230769  2551.081219  1700  11500     26
+
+
+3. MARKET-LEVEL ANALYSIS
+--------------------------------------------------------------------------------
+
+Top 10 Markets by Average Price:
+                                                mean          std   min    max  count
+Market                                                                               
+Vadaseri APMC                            6840.909091  9028.619050   900  52500     44
+SMY Palampur                             6302.500000  4103.800389   850  14200     20
+Kallakurichi(Uzhavar Sandhai ) APMC      6040.816327  5930.005564  1500  30000     49
+Myladi(Uzhavar Sandhai ) APMC            5460.294118  4446.854173   900  23500     34
+Ammapet(Uzhavar Sandhai ) APMC           5381.355932  4426.233496  1250  21500     59
+Asansol APMC                             5365.384615  3989.349081   860  12150     13
+Jameenrayapettai(Uzhavar Sandhai ) APMC  5218.750000  3689.963252  1750  17000     24
+Coonoor(Uzhavar Sandhai ) APMC           4647.619048  3147.839995  1650  17000     42
+Kariyapatti(Uzhavar Sandhai ) APMC       4569.736842  2734.972194  1750  13500     38
+Rajapalayam(Uzhavar Sandhai ) APMC       4535.000000  2854.196191  1250  15500     40
+
+
+4. PRICE VARIATION ACROSS REGIONS
+--------------------------------------------------------------------------------
+
+Overall Price Statistics:
+  - National Average Price: Rs.4315.53
+  - National Std Deviation: Rs.3396.77
+  - Coefficient of Variation: 78.71%
+
+  - Highest State Average: Rs.6302.50 (Himachal Pradesh)
+  - Lowest State Average: Rs.1540.33 (Punjab)
+  - State Price Range: Rs.4762.17
+
+
+5. FACTORS AFFECTING GEOGRAPHICAL PRICE VARIATION
+--------------------------------------------------------------------------------
+
+Demand Factors:
+  - Population density and urban concentration
+  - Consumer preferences and dietary habits
+  - Income levels and purchasing power
+  - Festival and seasonal demand patterns
+
+Supply Factors:
+  - Local production and crop yields
+  - Storage and warehousing facilities
+  - Agricultural infrastructure
+  - Climatic conditions and soil quality
+
+Transportation Costs:
+  - Distance from production centers
+  - Road connectivity and infrastructure
+  - Fuel costs and logistics
+  - Cold chain availability for perishables
+
+Regional Market Conditions:
+  - Market competition and trader networks
+  - Government interventions and subsidies
+  - Minimum Support Price (MSP) implementation
+  - Market information systems
+  - Local taxes and regulations
+    
+
+6. KEY INSIGHTS
+--------------------------------------------------------------------------------
+
+  - Price Disparity Across States: 309.2%
+  - Number of States Analyzed: 11
+  - Number of Districts Analyzed: 29
+  - Number of Markets Analyzed: 54
+
+  - Geographical variations reflect:
+    * Regional supply-demand imbalances
+    * Transportation and logistics costs
+    * Local market efficiency
+    * Infrastructure development levels
+
+================================================================================
